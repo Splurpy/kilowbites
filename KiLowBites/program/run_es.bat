@@ -1,0 +1,1 @@
+java -jar -Duser.language=es KiLowBites.jar
