@@ -3,6 +3,8 @@ Meal/Recipe planner created using Java's JSwing Library
 
 ## This was created for a university Software Engineering project, and was developed using Agile methodology (namely Scrum). I developed this alongside a team of my peers in a simulated industry environment.
 
+To download/install the latest release, see https://github.com/Splurpy/kilowbites/releases/tag/Release.
+
 # Current Features
 - Custom Recipe & Meal creation, saving, and loading
 - Searching Meals and Recipes by the ingredients they use
